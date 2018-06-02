@@ -1,7 +1,5 @@
 package modelo.ingredientes;
 
-import java.util.Map;
-import java.util.TreeMap;
 
 public abstract class Ingrediente implements IIngrediente {
     protected Dosis dosis;
