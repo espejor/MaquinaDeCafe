@@ -7,9 +7,7 @@ import modelo.ingredientes.IngredienteFactory;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.TreeMap;
 
-import static modelo.ingredientes.INombreIngrediente.*;
 
 public class Almacen implements IModelo {
     private String ingredientesDepositos[] = INombreIngrediente.nombreIngredientes;
