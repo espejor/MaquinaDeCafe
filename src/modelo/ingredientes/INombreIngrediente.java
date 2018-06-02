@@ -1,7 +1,5 @@
 package modelo.ingredientes;
 
-import java.util.Map;
-import java.util.TreeMap;
 
 public interface INombreIngrediente {
     String CAFE = "Café";
